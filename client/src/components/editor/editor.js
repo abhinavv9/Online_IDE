@@ -6,6 +6,7 @@ import 'codemirror/mode/javascript/javascript'
 import 'codemirror/addon/edit/closebrackets'
 import { Controlled as ControlledEditor } from 'react-codemirror2'
 import Button from '@material-ui/core/Button'
+import './editor.css'
 
 export default function Editor(props) {
     const {
