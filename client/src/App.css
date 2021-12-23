@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+/* .code-mirror-wrapper {
+  min-height: 0% !important;
+} */
+
+.run-btn {
+  z-index: 1 !important;
+  color: #000000 !important;
+  left: 0.7rem;
+  top: -5px;
+  border: 1px solid #000000 !important;
+}
+
+.output-div {
+  height: auto !important;
+  position: relative;
+}
+
+.output {
+  margin-top: 20px;
+  margin-left: 0.7rem !important;
+  
+  color: rgb(0, 0, 0);
+}

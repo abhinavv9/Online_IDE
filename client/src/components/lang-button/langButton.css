@@ -1,0 +1,10 @@
+.lang-div {
+    justify-content: space-between !important;
+    background: rgb(69, 66, 66) !important;
+    left: 5rem;
+    top: 2px;
+    width: 7.5rem;
+    color: white !important;
+    border-radius: 15px !important;
+    text-transform: none !important;
+}
